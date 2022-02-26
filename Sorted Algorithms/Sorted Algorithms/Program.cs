@@ -1,12 +1,11 @@
 ﻿using System;
 
-namespace BubbleSort
+namespace Sorted_Algorithms
 {
     class Program
     {
         public const int lenght = 100000;
         static int[] NonSorted = new int[lenght];
-
         static void Main(string[] args)
         {
             Random rnd = new Random();
@@ -33,7 +32,6 @@ namespace BubbleSort
                 Console.WriteLine(item);
             }
             #endregion
-
         }
     }
 }
