@@ -1,0 +1,16 @@
+C:\Users\vdrn7\source\Algoritmalar\StationProblem\StationProblem\bin\Debug\net5.0\StationProblem.exe
+C:\Users\vdrn7\source\Algoritmalar\StationProblem\StationProblem\bin\Debug\net5.0\StationProblem.deps.json
+C:\Users\vdrn7\source\Algoritmalar\StationProblem\StationProblem\bin\Debug\net5.0\StationProblem.runtimeconfig.json
+C:\Users\vdrn7\source\Algoritmalar\StationProblem\StationProblem\bin\Debug\net5.0\StationProblem.runtimeconfig.dev.json
+C:\Users\vdrn7\source\Algoritmalar\StationProblem\StationProblem\bin\Debug\net5.0\StationProblem.dll
+C:\Users\vdrn7\source\Algoritmalar\StationProblem\StationProblem\bin\Debug\net5.0\ref\StationProblem.dll
+C:\Users\vdrn7\source\Algoritmalar\StationProblem\StationProblem\bin\Debug\net5.0\StationProblem.pdb
+C:\Users\vdrn7\source\Algoritmalar\StationProblem\StationProblem\obj\Debug\net5.0\StationProblem.csproj.AssemblyReference.cache
+C:\Users\vdrn7\source\Algoritmalar\StationProblem\StationProblem\obj\Debug\net5.0\StationProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vdrn7\source\Algoritmalar\StationProblem\StationProblem\obj\Debug\net5.0\StationProblem.AssemblyInfoInputs.cache
+C:\Users\vdrn7\source\Algoritmalar\StationProblem\StationProblem\obj\Debug\net5.0\StationProblem.AssemblyInfo.cs
+C:\Users\vdrn7\source\Algoritmalar\StationProblem\StationProblem\obj\Debug\net5.0\StationProblem.csproj.CoreCompileInputs.cache
+C:\Users\vdrn7\source\Algoritmalar\StationProblem\StationProblem\obj\Debug\net5.0\StationProblem.dll
+C:\Users\vdrn7\source\Algoritmalar\StationProblem\StationProblem\obj\Debug\net5.0\ref\StationProblem.dll
+C:\Users\vdrn7\source\Algoritmalar\StationProblem\StationProblem\obj\Debug\net5.0\StationProblem.pdb
+C:\Users\vdrn7\source\Algoritmalar\StationProblem\StationProblem\obj\Debug\net5.0\StationProblem.genruntimeconfig.cache
