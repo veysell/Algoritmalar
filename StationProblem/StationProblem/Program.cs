@@ -11,7 +11,7 @@ namespace StationProblem
                 { -1,-1,0,80},
                 { -1,-1,-1,0}
         };
-
+        
         static int FindStationCost(int start, int finish,int counter=-1) // counter is a optional variable
         {
             if (start > finish) return -1;
@@ -30,12 +30,14 @@ namespace StationProblem
             int temp = start;
             return FindStationCost(start, finish, temp);
         }
+
         static void Main(string[] args)
         {
-             Console.WriteLine(StationCost(0, 3)); ;
+             Console.WriteLine(StationCost(0, 3));
             
         
         }
+
     }
     
 }
