@@ -16,8 +16,6 @@ namespace EmbedStringInImage
         static int[] harfler = new int[message.Length];
         static void Main(string[] args)
         {
-            //  01101101 01100101 01110010 01101000 01100001 01100010 01100001
-
             
             // resim dosyasini acma
             FileStream file = new FileStream(@"C:\Users\vdrn7\Desktop\3.2 güncel dönem\Algoritmalar\0.jpg", FileMode.Open);
@@ -52,22 +50,16 @@ namespace EmbedStringInImage
             }
 
            
-            image2.Save(@"C:\Users\vdrn7\Desktop\3.2 güncel dönem\Algoritmalar\gizlenenResim.jpg");
+            image2.Save(@"\gizlenenResim.jpg");
             file.Close();
             image1.Dispose();
             image2.Dispose();
             Console.WriteLine("islem tamamlandi");
             Console.ReadLine();
 
-
-            
-
-            
-
-
             //  okuma
-            //  @"C:\Users\vdrn7\Desktop\3.2 güncel dönem\Algoritmalar\gizlenenResim.jpg"
-            FileStream file2 = new FileStream(@"C:\Users\vdrn7\Desktop\3.2 güncel dönem\Algoritmalar\gizlenenResim.jpg", FileMode.Open);
+    
+            FileStream file2 = new FileStream(@"\gizlenenResim.jpg", FileMode.Open);
             Bitmap image = new Bitmap(file2);
             int image_Width = image.Width;
             int image_Height = image.Height;
@@ -100,8 +92,7 @@ namespace EmbedStringInImage
                 }
             }
 
-
-            image2.Save(@"C:\Users\vdrn7\Desktop\3.2 güncel dönem\Algoritmalar\enSonResim.jpg");
+            image2.Save(@"\enSonResim.jpg");
             file2.Close();
             image.Dispose();
             Console.WriteLine("islem tamamlandi");
