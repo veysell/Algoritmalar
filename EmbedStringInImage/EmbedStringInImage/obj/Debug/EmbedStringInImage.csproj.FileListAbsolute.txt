@@ -1,0 +1,7 @@
+C:\Users\vdrn7\source\Algoritmalar\EmbedStringInImage\EmbedStringInImage\obj\Debug\EmbedStringInImage.csproj.AssemblyReference.cache
+C:\Users\vdrn7\source\Algoritmalar\EmbedStringInImage\EmbedStringInImage\obj\Debug\EmbedStringInImage.csproj.CoreCompileInputs.cache
+C:\Users\vdrn7\source\Algoritmalar\EmbedStringInImage\EmbedStringInImage\bin\Debug\EmbedStringInImage.exe.config
+C:\Users\vdrn7\source\Algoritmalar\EmbedStringInImage\EmbedStringInImage\bin\Debug\EmbedStringInImage.exe
+C:\Users\vdrn7\source\Algoritmalar\EmbedStringInImage\EmbedStringInImage\bin\Debug\EmbedStringInImage.pdb
+C:\Users\vdrn7\source\Algoritmalar\EmbedStringInImage\EmbedStringInImage\obj\Debug\EmbedStringInImage.exe
+C:\Users\vdrn7\source\Algoritmalar\EmbedStringInImage\EmbedStringInImage\obj\Debug\EmbedStringInImage.pdb
